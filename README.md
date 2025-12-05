@@ -55,4 +55,6 @@
 
 ### 📫 Contacto
 
-- ✉️ freddy030307@gmail.com 
+- ✉️ freddy030307@gmail.com  
+- 🌐 **Portafolio:**  
+  [portafolio-animado-theta.vercel.app](https://portafolio-animado-theta.vercel.app)
